@@ -6,4 +6,4 @@ A AI/NLP powered Q&A web app with Tensorflow.js
 
 - React js
 - Tensorflow js
-- Bert (the AI data model stuff)
+- Bert (the NLP processing/data model) - Tensorflow Models[https://www.tensorflow.org/js/models]
